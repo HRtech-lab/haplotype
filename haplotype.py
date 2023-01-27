@@ -417,4 +417,4 @@ for key in sorted([*chrom_based_dict_of_haplotypes.keys()], key=lambda x: int(re
         i= i+1
 smo.close()
 
-  chrom_indexed_dictionary[chrom] = merged_patterns
+  
